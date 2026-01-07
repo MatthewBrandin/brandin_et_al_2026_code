@@ -1,0 +1,50 @@
+INFO -- 2025-11-24 13:11:10 -- shake.main -- Running command select
+INFO -- 2025-11-24 13:11:10 -- sm_select._setup_strec -- STREC is configured.
+INFO -- 2025-11-24 13:11:12 -- shake.main -- Finished running command select: Elapsed 1.74 secs
+INFO -- 2025-11-24 13:11:12 -- shake.main -- Running command assemble
+INFO -- 2025-11-24 13:11:12 -- shake.main -- Finished running command assemble: Elapsed 0.10 secs
+INFO -- 2025-11-24 13:11:12 -- shake.main -- Running command model
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Extent and resolution of shakemap results in too many grid points. Adjusting resolution...
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Longitude span: 7.150000
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Latitude span: 5.900000
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Current dx: 0.008333
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Current dy: 0.008333
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Current number of grid points: 607464
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Max grid points allowed: 500000
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Updated dx: 0.016667
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Updatd dy: 0.016667
+INFO -- 2025-11-24 13:11:12 -- model._adjust_resolution -- Updated number of grid points: 151866
+INFO -- 2025-11-24 13:11:19 -- shake.main -- Finished running command model: Elapsed 7.39 secs
+INFO -- 2025-11-24 13:11:19 -- shake.main -- Running command contour
+INFO -- 2025-11-24 13:11:21 -- shake.main -- Finished running command contour: Elapsed 1.80 secs
+INFO -- 2025-11-24 13:11:21 -- shake.main -- Running command stations
+INFO -- 2025-11-24 13:11:21 -- shake.main -- Finished running command stations: Elapsed 0.14 secs
+INFO -- 2025-11-24 13:11:21 -- shake.main -- Running command mapping
+INFO -- 2025-11-24 13:11:55 -- shake.main -- Finished running command mapping: Elapsed 33.63 secs
+INFO -- 2025-11-24 13:11:55 -- shake.main -- Running command info
+INFO -- 2025-11-24 13:11:55 -- shake.main -- Finished running command info: Elapsed 0.00 secs
+INFO -- 2025-11-24 13:11:55 -- shake.main -- Running command gridxml
+INFO -- 2025-11-24 13:11:56 -- shake.main -- Finished running command gridxml: Elapsed 0.77 secs
+INFO -- 2025-11-24 13:11:56 -- shake.main -- Running command raster
+WARNING -- 2025-11-24 13:11:56 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 13:11:56 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 13:11:56 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 13:11:56 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 13:11:56 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 13:11:56 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+INFO -- 2025-11-24 13:11:56 -- shake.main -- Finished running command raster: Elapsed 0.46 secs
+INFO -- 2025-11-24 13:11:56 -- shake.main -- shake finished with event us2000bmcg
+dfid value: df1
+dfid value: df2
