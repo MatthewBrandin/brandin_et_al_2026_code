@@ -1,0 +1,40 @@
+INFO -- 2025-11-24 11:42:29 -- shake.main -- Running command select
+INFO -- 2025-11-24 11:42:29 -- sm_select._setup_strec -- STREC is configured.
+INFO -- 2025-11-24 11:42:31 -- shake.main -- Finished running command select: Elapsed 2.16 secs
+INFO -- 2025-11-24 11:42:31 -- shake.main -- Running command assemble
+INFO -- 2025-11-24 11:42:31 -- shake.main -- Finished running command assemble: Elapsed 0.15 secs
+INFO -- 2025-11-24 11:42:31 -- shake.main -- Running command model
+INFO -- 2025-11-24 11:43:33 -- shake.main -- Finished running command model: Elapsed 61.69 secs
+INFO -- 2025-11-24 11:43:33 -- shake.main -- Running command contour
+INFO -- 2025-11-24 11:43:36 -- shake.main -- Finished running command contour: Elapsed 3.52 secs
+INFO -- 2025-11-24 11:43:36 -- shake.main -- Running command stations
+INFO -- 2025-11-24 11:43:37 -- shake.main -- Finished running command stations: Elapsed 0.52 secs
+INFO -- 2025-11-24 11:43:37 -- shake.main -- Running command mapping
+INFO -- 2025-11-24 11:44:22 -- shake.main -- Finished running command mapping: Elapsed 44.95 secs
+INFO -- 2025-11-24 11:44:22 -- shake.main -- Running command info
+INFO -- 2025-11-24 11:44:22 -- shake.main -- Finished running command info: Elapsed 0.00 secs
+INFO -- 2025-11-24 11:44:22 -- shake.main -- Running command gridxml
+INFO -- 2025-11-24 11:44:24 -- shake.main -- Finished running command gridxml: Elapsed 1.95 secs
+INFO -- 2025-11-24 11:44:24 -- shake.main -- Running command raster
+WARNING -- 2025-11-24 11:44:24 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 11:44:24 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 11:44:24 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 11:44:25 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 11:44:25 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+WARNING -- 2025-11-24 11:44:25 -- warnings._showwarnmsg -- /Users/hyin/miniforge3/envs/shakemap/lib/python3.12/site-packages/mapio/gdal.py:527: DataSetWarning: 'Down-casting double precision floating point to single precision'
+  warnings.warn(
+
+INFO -- 2025-11-24 11:44:25 -- shake.main -- Finished running command raster: Elapsed 1.00 secs
+INFO -- 2025-11-24 11:44:25 -- shake.main -- shake finished with event ci14607652
+dfid value: df1
+dfid value: df2
